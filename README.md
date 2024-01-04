@@ -1,0 +1,2 @@
+# nixnas
+Nixos NAS configs
